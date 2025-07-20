@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+  color: lime;
+  font-family: monospace;
+  text-align: center;
+  padding-top: 100px;
+}
+
+a {
+  color: cyan;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
